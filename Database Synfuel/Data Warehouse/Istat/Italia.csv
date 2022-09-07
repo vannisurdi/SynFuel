@@ -1,0 +1,109 @@
+Provincia,SiglaProvincia,Regione,CodRegione
+agrigento,AG,Sicilia,19
+alessandria,AL,Piemonte,1
+ancona,AN,Marche,11
+aosta,AO,Valle D'Aosta,2
+arezzo,AR,Toscana,9
+ascoli piceno,AP,Marche,11
+asti,AT,Piemonte,1
+avellino,AV,Campania,15
+bari,BA,Puglia,16
+barletta,BT,Puglia,16
+belluno,BL,Veneto,5
+benevento,BN,Campania,15
+bergamo,BG,Lombardia,3
+biella,BI,Piemonte,1
+bologna,BO,Emilia Romagna,8
+bolzano,BZ,Trentino,4
+brescia,BS,Lombardia,3
+brindisi,BR,Puglia,16
+cagliari,CA,Sardegna,20
+caltanissetta,CL,Sicilia,19
+campobasso,CB,Molise,14
+carbonia iglesias,CI,Sardegna,20
+caserta,CE,Campania,15
+catania,CT,Sicilia,19
+catanzaro,CZ,Calabria,18
+cesena,FC,Emilia Romagna,8
+chieti,CH,Abruzzo,13
+como,CO,Lombardia,3
+cosenza,CS,Calabria,18
+cremona,CR,Lombardia,3
+crotone,KR,Calabria,18
+cuneo,CN,Piemonte,1
+enna,EN,Sicilia,19
+fermo,FM,Marche,11
+ferrara,FE,Emilia Romagna,8
+firenze,FI,Toscana,9
+fiume,FU,Friuli,6
+foggia,FG,Puglia,16
+frosinone,FR,Lazio,12
+genova,GE,Liguria,7
+gorizia,GO,Friuli,6
+grosseto,GR,Toscana,9
+imperia,IM,Liguria,7
+isernia,IS,Molise,14
+la spezia,SP,Liguria,7
+l'aquila,AQ,Abruzzo,13
+latina,LT,Lazio,12
+lecce,LE,Puglia,16
+lecco,LC,Lombardia,3
+livorno,LI,Toscana,9
+lodi,LO,Lombardia,3
+lucca,LU,Toscana,9
+macerata,MC,Marche,11
+mantova,MN,Lombardia,3
+massa carrara,MS,Toscana,9
+matera,MT,Basilicata,17
+messina,ME,Sicilia,19
+milano,MI,Lombardia,3
+modena,MO,Emilia Romagna,8
+monza brianza,MB,Lombardia,3
+napoli,NA,Campania,15
+novara,NO,Piemonte,1
+nuoro,NU,Sardegna,20
+oristano,OR,Sardegna,20
+padova,PD,Veneto,5
+palermo,PA,Sicilia,19
+parma,PR,Emilia Romagna,8
+pavia,PV,Lombardia,3
+perugia,PG,Umbria,10
+pesaro,PU,Marche,11
+pescara,PE,Abruzzo,13
+piacenza,PC,Emilia Romagna,8
+pisa,PI,Toscana,9
+pistoia,PT,Toscana,9
+pordenone,PN,Friuli,6
+potenza,PZ,Basilicata,17
+prato,PO,Toscana,9
+ragusa,RG,Sicilia,19
+ravenna,RA,Emilia Romagna,8
+reggio,RC,Calabria,18
+reggio emilia,RE,Emilia Romagna,8
+rieti,RI,Lazio,12
+rimini,RN,Emilia Romagna,8
+roma,RM,Lazio,12
+rovigo,RO,Veneto,5
+salerno,SA,Campania,15
+sassari,SS,Sardegna,20
+savona,SV,Liguria,7
+siena,SI,Toscana,9
+siracusa,SR,Sicilia,19
+sondrio,SO,Lombardia,3
+taranto,TA,Puglia,16
+teramo,TE,Abruzzo,13
+terni,TR,Umbria,10
+torino,TO,Piemonte,1
+trapani,TP,Sicilia,19
+trento,TN,Trentino,4
+treviso,TV,Veneto,5
+trieste,TS,Friuli,6
+udine,UD,Friuli,6
+varese,VA,Lombardia,3
+venezia,VE,Veneto,5
+verbano,VB,Piemonte,1
+vercelli,VC,Piemonte,1
+verona,VR,Veneto,5
+vibo valentia,VV,Calabria,18
+vicenza,VI,Veneto,5
+viterbo,VT,Lazio,12
